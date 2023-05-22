@@ -31,4 +31,9 @@ temperature {
 span {
   color: blue;
 }
-
+id {
+  color: blue;
+}
+body {
+  background-color: blanchedalmond;
+}

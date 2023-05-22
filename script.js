@@ -59,8 +59,7 @@ function convertToFahrenheit(event) {
   event.preventDefault();
   let temperatureElement = document.querySelector("#temperature");
   let temperature = temperatureElement.innerHTML;
-  console.log(temperature);
-  temperatureElement.innerHTML = "🌦️86";
+  
 }
 function convertToCelsuis(event) {
   event.preventDefault();
